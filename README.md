@@ -2,9 +2,8 @@
 Projeto criado na Imsersão React com a @alura @omariosouto @peas
 <p>Tecnologias usadas:
 <ul>
-  <link a href="https://pt-br.reactjs.org/">
-  <li>React.js</li>
-  <li>Next.js</li>
-  <li>Supabase</li>
-  <li>SkynexUi</li>
+  <li><a href="https://pt-br.reactjs.org/">React.js</a></li>
+  <li><a href="https://nextjs.org/">Next.js</a></li>
+  <li><a href="https://supabase.com/">SupaBase</a></li>
+  <li><a href="https://skynexui.dev/">SkynexUi</a></li>
 </ul>
