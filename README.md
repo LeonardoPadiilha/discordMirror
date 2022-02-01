@@ -1,6 +1,6 @@
 # discordMirror
-Projeto criado na Imsersão React com a @alura @omariosouto @peas
-<p>Tecnologias usadas:
+Projeto criado na Imersão React com a @alura, @omariosouto e @peas
+<p>Tecnologias utilizadas:
 <ul>
   <li><a href="https://pt-br.reactjs.org/">React.js</a></li>
   <li><a href="https://nextjs.org/">Next.js</a></li>
